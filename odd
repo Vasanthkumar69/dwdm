@@ -1,0 +1,2 @@
+odd_numbers <- seq(from = 1, to = 19, by = 2)
+print(odd_numbers)
